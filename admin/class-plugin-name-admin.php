@@ -20,7 +20,7 @@
  * @subpackage plugin_name/admin
  * @author     Kevin Greene <kevin@infinitescripts.com>
  */
-class plugin_name_Admin {
+class plugin_name_admin {
 
 	/**
 	 * The ID of this plugin.

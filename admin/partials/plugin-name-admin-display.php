@@ -3,11 +3,11 @@
 /**
  * Admin Area
  *
- * @link       http://www.infinitescripts.com/login-tracker
+ * @link       http://www.infinitescripts.com/plugin-name
  * @since      1.0.0
  *
- * @package    Login_Tracker
- * @subpackage Login_Tracker/admin/partials
+ * @package    plugin_name
+ * @subpackage plugin_name/admin/partials
  */
 ?>
 
